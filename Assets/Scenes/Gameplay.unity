@@ -168,12 +168,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gem:
-  - {fileID: 1894602200560556072, guid: 788cc90fadc37124f9f53ec5cbcc19df, type: 3}
-  - {fileID: 8740434219016848051, guid: c981a6612c9de3c4380bad0c698e6f25, type: 3}
-  - {fileID: 7236637489864087593, guid: 9b48572dbac494d4d8d36cda1ae4a5d4, type: 3}
-  - {fileID: 8554122411733409621, guid: 76e5254c526cb6740a471a387b6681c6, type: 3}
-  - {fileID: 4097376563657389738, guid: 5be60d7a4c7ed2f468d8f6e78b352d63, type: 3}
   - {fileID: 7502803689607153757, guid: 7ed9e6b5a91fed34fb04d300556944e7, type: 3}
+  - {fileID: 4097376563657389738, guid: 5be60d7a4c7ed2f468d8f6e78b352d63, type: 3}
+  - {fileID: 8554122411733409621, guid: 76e5254c526cb6740a471a387b6681c6, type: 3}
+  - {fileID: 7236637489864087593, guid: 9b48572dbac494d4d8d36cda1ae4a5d4, type: 3}
+  - {fileID: 8740434219016848051, guid: c981a6612c9de3c4380bad0c698e6f25, type: 3}
+  - {fileID: 1894602200560556072, guid: 788cc90fadc37124f9f53ec5cbcc19df, type: 3}
   snapController: {fileID: 1361386373}
   gemsParent: {fileID: 1481432415}
   spawnAreaMin: {x: -1, y: -4}
@@ -506,8 +506,8 @@ MonoBehaviour:
   snapController: {fileID: 1361386373}
   tile: {fileID: 5848140933479395696, guid: 7bbbac8236601474581979e25454a8ff, type: 3}
   tileSR: {fileID: 995720189422607495, guid: 7bbbac8236601474581979e25454a8ff, type: 3}
-  spriteBlack: {fileID: 21300000, guid: bbb44ab582c20714183dcc70f4ec4d36, type: 3}
-  spriteWhite: {fileID: 21300000, guid: 949e5c91024695a4ea0ecd26a834be7f, type: 3}
+  spriteBlack: {fileID: 21300000, guid: 78cb7224b8ffc034db0a2a4433699a13, type: 3}
+  spriteWhite: {fileID: 21300000, guid: ad8221fe787daae4ab87be9764920e84, type: 3}
 --- !u!4 &758555440
 Transform:
   m_ObjectHideFlags: 0
@@ -658,12 +658,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: -1
-  m_Sprite: {fileID: 21300000, guid: 8fdf277c81fa6814a8daf4e23231e810, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 477759c7d55b1f745bef68f2bde0fd45, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 24.006544, y: 33.56}
+  m_Size: {x: 20.48, y: 11.52}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
